@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "emissor": "MODELO S.A",
+        "data_criacao": "2026-04-17 21:04:57",
+        "projeto": "YieldStructurer AI"
+    },
+    "parametros_emissao": {
+        "volume_brl": 100000000.0,
+        "prazo_anos": 5,
+        "rating": "AAA",
+        "especie_garantia": "Quirografaria",
+        "isencao_fiscal": false,
+        "publico_alvo": "Varejo"
+    },
+    "benchmarks": {
+        "spread_banco_atual": 1.5,
+        "custo_plataforma_anual": 120000.0
+    },
+    "arquivos_referencia": {
+        "normativo_cvm_ofertas": "docs/regulatorio/Resolucao_CVM_160_Ofertas_Publicas.pdf",
+        "normativo_cvm_coordenadores": "docs/regulatorio/Resolucao_CVM_161_Coordenadores.pdf",
+        "lei_incentivo_fiscal": "docs/regulatorio/Lei_12431_Debentures_Incentivadas.pdf",
+        "auditoria_bacen": "docs/regulatorio/Resolucao_BCB_352_Controles_Internos.pdf",
+        "base_tecnica_garantias": "docs/regulatorio/Manual_FIPECAFI_Garantias.pdf"
+    }
+}

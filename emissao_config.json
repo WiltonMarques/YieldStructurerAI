@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "emissor": "Alpha S.A.",
+    "data_base": "2026-04-17"
+  },
+  "premissas": {
+    "volume_brl": 150000000,
+    "prazo_anos": 5,
+    "rating": "AAA",
+    "especie_garantia": "Quirografaria",
+    "isencao_fiscal": false,
+    "publico_alvo": "Qualificado"
+  },
+  "benchmark_banco": {
+    "spread_banco_atual": 1.500,
+    "custo_tecnologia_anual": 120000
+  },
+  "curva_b3": [
+    {"dias_uteis": 252, "taxa": 11.250},
+    {"dias_uteis": 504, "taxa": 11.850},
+    {"dias_uteis": 756, "taxa": 12.300},
+    {"dias_uteis": 1008, "taxa": 12.850},
+    {"dias_uteis": 1260, "taxa": 13.295},
+    {"dias_uteis": 2520, "taxa": 14.150}
+  ]
+}
