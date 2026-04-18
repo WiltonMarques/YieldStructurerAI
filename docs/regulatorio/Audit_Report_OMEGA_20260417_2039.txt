@@ -1,0 +1,51 @@
+=====================================================================
+NOTA TÉCNICA DE COMPLIANCE: PRECIFICAÇÃO DE DÍVIDA (DCM)
+=====================================================================
+ID DO RELATÓRIO: 20260417_2039
+EMISSOR AUDITADO: OMEGA
+DATA DE REFERÊNCIA: 17/04/2026 20:39:08
+RESPONSÁVEL TÉCNICO: Wilton Marques do Amaral
+---------------------------------------------------------------------
+
+1. IDENTIFICAÇÃO DA OPERAÇÃO
+----------------------------
+Volume Financeiro (Notional): R$ 0.00
+Prazo (Duration): 5.0 Anos
+Rating Corporativo: A
+Espécie de Garantia: QUIROGRAFARIA
+Incentivo Fiscal (Lei 12.431/11): Não
+Público-Alvo: Qualificado
+
+2. FUNDAMENTAÇÃO REGULATÓRIA
+----------------------------
+- Resolução CVM 160: Adoção de rito conforme perfil de investidor.
+- Governança de Crédito: Precificação do risco de cauda baseada na 
+  hierarquia de garantias (adicional por ausência de privilégio real).
+- Marcação a Mercado: Interpolação linear paramétrica da curva DI1/B3.
+
+3. MEMÓRIA DE CÁLCULO (DINÂMICA)
+--------------------------------
+Taxa Livre de Risco (Curva DI B3): 13.295% a.a.
+Spread de Crédito (Rating): +1.500% a.a.
+Ajuste por Espécie/Garantia: +0.300% a.a.
+Benefício Fiscal (Lei 12.431/11): 0.000% a.a.
+
+>>> TAXA FINAL JUSTA CALCULADA (AI): 15.095% a.a.
+
+4. ANÁLISE DE EFICIÊNCIA E ROI
+------------------------------
+Cotação Banco (Manual): 14.795% a.a.
+Ineficiência Identificada: -0.300% (Basis Points)
+ECONOMIA FINANCEIRA DIRETA: R$ -0.00 / ano
+ROI DA SOLUÇÃO TECNOLÓGICA: -100.0%
+
+5. PARECER CONCLUSIVO
+---------------------
+Atesto que a precificação calculada reflete com exatidão matemática o 
+risco de crédito e o enquadramento jurídico da operação. O modelo eliminou 
+a assimetria informacional da tesouraria, garantindo a redução do custo 
+do passivo financeiro em conformidade com as normas vigentes.
+
+---------------------------------------------------------------------
+Documento gerado eletronicamente para fins de prestação de contas.
+=====================================================================
